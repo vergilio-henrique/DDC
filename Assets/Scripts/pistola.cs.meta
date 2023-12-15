@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e723018c02b42ee4386bf67b01225c80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunTransform: {fileID: 6912071404116538039, guid: 44a5ead153190b449a333b4820b42ecf, type: 3}
+  - muzzleTransform: {fileID: 6912071404116538039, guid: 44a5ead153190b449a333b4820b42ecf, type: 3}
+  - bulletPrefab: {fileID: 1490164776707621309, guid: 35eccb6e24aee0b4ca77c64f7dee9103, type: 3}
+  - gunAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
